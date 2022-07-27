@@ -1,0 +1,3 @@
+Base1Name = foo
+Base2Name = bar
+OutputFile = D:\\output.txt
